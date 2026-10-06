@@ -30,7 +30,7 @@
 
 ### Certifications
 
-7× AWS and 2× Databricks certified. Every link opens the official verification page.
+7× AWS, 2× Databricks and 3× GitHub certified. Every link opens the official verification page.
 
 | Certification | Verify |
 | --- | --- |
@@ -43,5 +43,8 @@
 | AWS Certified Cloud Practitioner | [Credly](https://www.credly.com/badges/71e2b222-eeb2-4266-9a5e-01273bd3aa5d) |
 | Databricks Certified Generative AI Engineer Associate | [Databricks](https://credentials.databricks.com/6c4be2d0-63ea-4e2e-adef-aaabff7d972b) |
 | Databricks Certified Data Engineer Associate | [Databricks](https://credentials.databricks.com/e00f586b-aacd-4e2b-b722-f1a62663c9ec) |
+| GitHub Actions | [Credly](https://www.credly.com/badges/8c9e44f3-ad66-40cd-bbff-c3959796f464) |
+| GitHub Copilot | [Credly](https://www.credly.com/badges/7e2b5467-2580-47a2-acd3-8463bd2331fc) |
+| GitHub Foundations | [Credly](https://www.credly.com/badges/4c6840e9-4a1f-46a3-9363-26ae2bd27657) |
 
 Open to data engineering roles at product companies, in Bengaluru or remote. The best way to reach me is [LinkedIn](https://linkedin.com/in/gururaj18).
